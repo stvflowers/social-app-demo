@@ -4,7 +4,7 @@
 appid="data-fsqzg"
 
 # 2. API Key
-apikey="eVtNHg37l98jGqbnjfuxpMf5fAAbYXzfmERNAndXdPxatSStrjlEdOP5zPjHHRz5"
+apikey=""
 
 # 3. Base URL
 baseurl="https://data.mongodb-api.com/app/$appid/endpoint/data/v1"
